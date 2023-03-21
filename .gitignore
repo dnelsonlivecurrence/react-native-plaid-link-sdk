@@ -46,7 +46,4 @@ local.properties
 buck-out/
 \.buckd/
 *.keystore
-
-# React Native ts
-dist/
       
